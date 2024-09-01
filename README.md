@@ -1,1 +1,1 @@
-This is a feature branch, Add new features.
+Creating scenario for merge conflict between branch 1 and branch 2
